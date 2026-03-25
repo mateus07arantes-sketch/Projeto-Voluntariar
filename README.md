@@ -66,3 +66,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ![Dashboard](screenshots/dashboard.png)
 ![Tela Ações Voluntárias](screenshots/tela_acoes_voluntarias.png)
 ![Tela Minhas Inscrições](screenshots/tela_minhas_inscricoes.png)
+![Tela Minhas Ações (ONG)](screenshots/tela_minhas_acoes.png)
+![Tela Detalhes da Ação](screenshots/tela_detalhes_acao.png)
+![Tela Painel Admin Destalhes de ONG](screenshots/tela_painel_admin_ong.png)
